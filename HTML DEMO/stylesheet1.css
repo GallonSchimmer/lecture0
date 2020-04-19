@@ -1,0 +1,89 @@
+div{
+    background:rgb(136, 176, 75);
+    color: black;
+    font-size: 15px;
+}
+#quote{
+    background: grey;
+    font-family: "verdana" , "gill sans";
+    color: white;
+}
+.blue{
+    color: yellow;
+    background: steelblue;
+    font-size: 20px;
+    text-decoration: overline underline;
+ 
+    
+}
+p{
+    text-transform: uppercase;
+    color: white;
+    font-family: Helvetica;
+    font-size: 15px;
+    
+}
+
+
+*{
+    background: #FFDC00;
+    color: green;
+}
+
+h1{
+    background: blue;
+    border: 1px solid green;
+    font-size: 150%;
+}
+
+li{
+    font-size: 25px;
+    background: pink;
+    border-bottom: 2px solid yellow;
+    font-style: italic;
+}
+form{
+    border: 2px solid white;
+    font-weight: bolder;
+}
+
+button{
+    color: yellow;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h3{
+    font-family:fantasy;
+    color: #001f3f;
+    font-style: oblique;
+    font-size: 20px;
+    
+}
+
+table{
+    font-family:monospace;
+    font-size: 15px;
+    font-weight: bolder;
+    text-decoration: line-through;
+}
+
+body{
+    font-size: 25px;
+    font-family:verdana, arial, geneva, arial black;
+    
+}
+.yellow{
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.underline{
+    text-decoration: underline;
+    
+}
+h2{
+    font-size: 1.2em;
+    
+}
